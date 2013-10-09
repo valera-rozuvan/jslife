@@ -1,6 +1,6 @@
 jslife
 ======
-[Conway's Game of Life](http://en.wikipedia.org/wiki/Conway's_Game_of_Life), in JavaScript.  See it live [here](http://broofa.com/jslife).
+[Conway's Game of Life](http://en.wikipedia.org/wiki/Conway's_Game_of_Life), in JavaScript.  See it live [here](http://valera-rozuvan.github.io/jslife/).
 
 
 [v 1.1]
